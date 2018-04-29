@@ -17,3 +17,5 @@ git config --list
 2. Preparas los archivos, añadiéndolos a tu área de preparación
 3. Confirmas los cambios, lo que toma los archivos tal y co,o están en el área de preparación
 y almacena esa copia instantáneamente de manera permanente en tu directorio Git.
+
+Esta línea fue creada en la rama master.
