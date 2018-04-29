@@ -1,4 +1,8 @@
-## ESTO ES ALGO GENIAL
+# ESTO ES ALGO GENIAL
+
+## Git
+Git es un sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.
+
 ### Zonas de Git
 
 1.Directorio de trabajo
@@ -18,4 +22,5 @@ git config --list
 3. Confirmas los cambios, lo que toma los archivos tal y co,o están en el área de preparación
 y almacena esa copia instantáneamente de manera permanente en tu directorio Git.
 
-Esta línea fue creada en la rama master.
+## Aportes desde otra cuenta
+Este texto fue aportado desde la cuenta `carlorenato19`
